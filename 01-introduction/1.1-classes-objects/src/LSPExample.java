@@ -1,4 +1,4 @@
-public class LSPexample {
+public class LSPExample {
     public static void main(String[] args) {
         System.out.println("=== Пример принципа подстановки Лисков ===\n");
 
