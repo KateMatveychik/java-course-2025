@@ -4,28 +4,28 @@ public class Practice1 {
         // 1. ЦЕЛОЧИСЛЕННЫЕ ТИПЫ (4 типа)
         // byte - 8 бит
         byte byteValue = 100;
-        byte byteZero = 0;  // Нулевое значение для byte
+        byte byteZero = 0;  // нулевое значение для byte
 
         // short - 16 бит
         short shortValue = 1000;
-        short shortZero = 0;  // Нулевое значение для short
+        short shortZero = 0;  // нулевое значение для short
 
         // int - 32 бит
         int intValue = 100000;
-        int intZero = 0;  // Нулевое значение для int
+        int intZero = 0;  // нулевое значение для int
 
-        // 1.4 long - 64 бит
+        // long - 64 бит
         long longValue = 10000000000L;
-        long longZero = 0L;  // Нулевое значение для long
+        long longZero = 0L;  // нулевое значение для long
 
         // 2. С ПЛАВАЮЩЕЙ ТОЧКОЙ (2 типа)
         // float - 32 бит, 6-7 знаков точности
-        float floatValue = 3.14f;  // Суффикс f обязателен!
-        float floatZero = 0.0f;    // Нулевое значение для float
+        float floatValue = 3.14f;  // обязательно f в конце
+        float floatZero = 0.0f;    // нулевое значение для float
 
         // double - 64 бит, 15-16 знаков точности
-        double doubleValue = 3.14159;  // По умолчанию дробные числа - double
-        double doubleZero = 0.0;       // Нулевое значение для double
+        double doubleValue = 3.14159;  //по умолчанию дробные числа - double
+        double doubleZero = 0.0;       // нулевое значение для double
 
 
         // 3. СИМВОЛЬНЫЙ ТИП
