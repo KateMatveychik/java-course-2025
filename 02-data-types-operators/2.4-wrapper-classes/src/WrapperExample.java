@@ -48,8 +48,7 @@ public class WrapperExample {
         System.out.println("\n3. Boolean.parseBoolean():");
         System.out.println("   parseBoolean(\"true\") = " + bool5);
         System.out.println("   parseBoolean(\"false\") = " + bool6);
-        System.out.println("   parseBoolean(\"любой текст\") = " +
-                Boolean.parseBoolean("любой текст"));
+        System.out.println("   parseBoolean(\"любой текст\") = " + Boolean.parseBoolean("любой текст"));
 
         // 4. Автоупаковка
         Boolean bool7 = true;
