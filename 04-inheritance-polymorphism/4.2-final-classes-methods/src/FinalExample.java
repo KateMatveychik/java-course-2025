@@ -25,7 +25,7 @@ class Parent1 {
 
 class Child1 extends Parent1 {
     // Попытка переопределить метод show() вызовет ошибку компиляции
-    // public void show() { System.out.println("Переопределение"); } // ❌ ошибка
+    // public void show() { System.out.println("Переопределение"); } //ошибка
 }
 
 /* Практика №2: final-класс */
